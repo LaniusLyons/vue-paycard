@@ -85,11 +85,6 @@
       }
     ]
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11"
-  ],
   "jest": {
     "preset": "@vue/cli-plugin-unit-jest",
     "coverageDirectory": "./coverage/",

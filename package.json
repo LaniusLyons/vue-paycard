@@ -86,9 +86,9 @@
     ]
   },
   "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead"
+    ">0.2%",
+    "not dead",
+    "not ie <= 11"
   ],
   "jest": {
     "preset": "@vue/cli-plugin-unit-jest",
